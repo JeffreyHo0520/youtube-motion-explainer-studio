@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+ENV/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build / Output directories and media
+renders/
+temp/
+tmp/
+*.mp4
+*.wav
+*.mp3
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Lock files
+concat.lock
+*.lock
